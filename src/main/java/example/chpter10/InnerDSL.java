@@ -26,6 +26,5 @@ public class InnerDSL {
 
         // 개선 3
         numbers.forEach(System.out::println);
-
     }
 }
